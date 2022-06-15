@@ -1,2 +1,3 @@
 # SpaceBus
-SpaceBus is a web dashboard for MQTT
+
+SpaceBus is a React-based web dashboard for MQTT

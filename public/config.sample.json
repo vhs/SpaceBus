@@ -1,0 +1,6 @@
+{
+    "title": "SpaceBus Dashboard",
+    "mqttUri": "wss://test.mosquitto.org:8081/mqtt",
+    "mqttTopic": "/test/vhs/#",
+    "tableUpdateInterval": "5000"
+}

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  spacebus:
+    image: local/spacebus
+    build: .
+    ports:
+      - "7354:80"
